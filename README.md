@@ -22,3 +22,6 @@ Total for certs: $3160
 
 
 ##
+Possible name of network & product: Zoef & Zoef-router
+
+*I'm writing this in a different document, will post here later-ramon*
